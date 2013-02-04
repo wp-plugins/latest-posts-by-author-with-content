@@ -24,3 +24,6 @@ To call it from within a theme template, you have to wrap it in this PHP functio
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place `<?php echo do_shortcode('[latestbyauthor]'); ?>` in your templates or `[latestbyauthor]` in your posts
 
+==Screenshots==
+
+For Screenshots, please visit:<p>http://www.opensourcetechnologies.com/wordpress-plugins/latest-posts-by-author-with-content.html</p>
