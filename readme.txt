@@ -17,7 +17,7 @@ To call it with a shortcode, use `[latestbyauthor author="username" show="3"]` w
 
 To call it from within a theme template, you have to wrap it in this PHP function: `<?php echo do_shortcode('[latestbyauthor author="username" show="3"]'); ?>`
 
-<p>For video tutorial : <a href="https://www.youtube.com/watch?v=D6XR7fQMLvI&feature=youtu.be">Click here</a>
+<p>For video tutorial : <a href="https://www.youtube.com/watch?v=Lg3nBWofBZY&feature=youtu.be" target="blank" >Click here</a>
 </p>
 == Installation ==
 
